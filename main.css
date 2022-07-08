@@ -1,0 +1,14 @@
+h1 {
+    background-color: beige;
+    font-size: 40px;
+    border-radius: 15px;
+    text-align: center;
+
+
+}
+ div p {
+    color: blueviolet;
+    font-size: 30px;
+    font-weight: 700;
+    text-decoration: solid;
+ }
